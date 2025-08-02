@@ -1,1 +1,15 @@
+# Ignora arquivos de ambiente
 .env
+
+# Ignora arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Ignora arquivos temporários do sistema
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignora configurações de IDEs (opcional)
+.vscode/
+.idea/
